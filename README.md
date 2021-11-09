@@ -7,3 +7,6 @@ I'am a Discord.JS Developer
 - Being such an idiot
 - Always laugh for no reason
 
+## Projects
+- UtilitiesX | Discord Bot
+- Website | It's done but I NEED THE DOMAIN :(

@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi there Im AndrewX! 👋
 
-<!--
-**AWildAndrewX/AWildAndrewX** is da best men B)
+I'am a Discord.JS Developer
 
-Here's my about me nerds:
+# Things that i like to do
+- Play video games
+- Being such an idiot
+- Always laugh for no reason
 
-- 🔭 I’m currently working on XBot (My Discord Bot) 🤖
-- 🌱 I’m currently learning Discord.JS v13 😎
-- 🤔 I’m looking for help with XBot (My Discord Bot) 🤖
-- 💬 Ask me about 
-- 📫 How to reach me: By doing following me its really good 😄
-- 😄 Pronouns: He/Him 👦
-- ⚡ Fun fact: I love burgers and chilidogs, I also like vegetables lol XD 🍔
